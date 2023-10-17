@@ -2,3 +2,4 @@ selenium==4.11.0
 Flask
 bs4
 beautifulsoup4
+gunicorn
